@@ -1,7 +1,9 @@
 # Welcome to Ravikiran Kulkarni's GitHub Profile!
 ## About myself:-
   :arrow_right:	Automotive Engineer with 17+ years of experience in Design & Development
+  
   :arrow_right:	Expertise in Systematic problem solving using Statistical process control tools.
+  
   :arrow_right:	Excellent technical, analytical, and problem-solving skills
   
   :arrow_right:	Exposure to complete product lifecycle start from concept development to volume production
